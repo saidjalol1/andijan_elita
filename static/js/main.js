@@ -118,7 +118,7 @@ const translations = {
         foot_copy: "© 2025 Andijon Elita Hotel — 13-B Bobur Shokh Street, Andijan, Uzbekistan. All Rights Reserved."
     },
     uz: {
-        nav_logo: "Andijon Elita Mehmonxonasi",
+        nav_logo: "Andijon Elita Hotel",
         nav_home: "Asosiy",
         nav_rooms: "Xonalar",
         nav_amenities: "Qulayliklar",
@@ -235,7 +235,7 @@ const translations = {
         foot_copy: "© 2025 Andijon Elita Mehmonxonasi. Barcha huquqlar himoyalangan."
     },
     ru: {
-        nav_logo: "Отель Андижан Элита",
+        nav_logo: "Andijon Elita Hotel",
         nav_home: "Главная",
         nav_rooms: "Номера",
         nav_amenities: "Услуги",
